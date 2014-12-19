@@ -1,0 +1,7 @@
+# Chapter 4
+
+## Test code import
+
+<<[Hello World in C](code/helloworld.c)
+
+<<[Hello World in Ruby](code/helloworld.rb)
